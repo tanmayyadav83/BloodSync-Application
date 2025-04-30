@@ -40,6 +40,9 @@ A bloodsync application where donors can donate blood and hospitals can requests
 
 5. Access the app via http://localhost:8080/BloodSync/ or run the index.html file while starting the server in backend also try change port number to 8081.
 
+# Screenshots:
+![login](https://github.com/tanmayyadav83/BloodSync-Application/blob/main/login_page.png?raw=true)
+
 
 
 
