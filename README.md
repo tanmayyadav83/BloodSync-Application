@@ -44,6 +44,7 @@ A bloodsync application where donors can donate blood and hospitals can requests
 ![login](https://github.com/tanmayyadav83/BloodSync-Application/blob/main/login_page.png?raw=true)
 ![hospital](https://github.com/tanmayyadav83/BloodSync-Application/blob/main/hospital_page.png?raw=true)
 ![donor](https://github.com/tanmayyadav83/BloodSync-Application/blob/main/donor_page.png?raw=true)
+![admin](https://github.com/tanmayyadav83/BloodSync-Application/blob/main/admin_page.png?raw=true)
 
 
 
